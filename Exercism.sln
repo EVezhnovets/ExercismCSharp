@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogLevels", "log-levels\Log
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bob", "bob\Bob.csproj", "{8930DD79-0C42-4995-A2B2-3F99946853C1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElonsToys", "elons-toys\ElonsToys.csproj", "{FBFCC7CC-5B70-434B-94A8-6B044BD81E72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{8930DD79-0C42-4995-A2B2-3F99946853C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8930DD79-0C42-4995-A2B2-3F99946853C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8930DD79-0C42-4995-A2B2-3F99946853C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFCC7CC-5B70-434B-94A8-6B044BD81E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFCC7CC-5B70-434B-94A8-6B044BD81E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFCC7CC-5B70-434B-94A8-6B044BD81E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFCC7CC-5B70-434B-94A8-6B044BD81E72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
