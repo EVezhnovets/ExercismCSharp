@@ -17,8 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollTheDie", "roll-the-die\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogLevels", "log-levels\LogLevels.csproj", "{9A8E0A2C-40A5-4CD3-A2E8-23B2552213B5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElonsToys", "elons-toys\ElonsToys.csproj", "{1FE632C4-5292-4F51-94A0-AA064F0E977F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bob", "bob\Bob.csproj", "{8930DD79-0C42-4995-A2B2-3F99946853C1}"
 EndProject
 Global
@@ -59,10 +57,6 @@ Global
 		{8930DD79-0C42-4995-A2B2-3F99946853C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8930DD79-0C42-4995-A2B2-3F99946853C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8930DD79-0C42-4995-A2B2-3F99946853C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1FE632C4-5292-4F51-94A0-AA064F0E977F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1FE632C4-5292-4F51-94A0-AA064F0E977F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1FE632C4-5292-4F51-94A0-AA064F0E977F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1FE632C4-5292-4F51-94A0-AA064F0E977F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
