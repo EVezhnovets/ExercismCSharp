@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollTheDie", "RollTheDie\Ro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bob", "Bob\Bob.csproj", "{53AB6DD3-FB6F-4EAA-A98D-DD93E09E1A11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log Analysis", "Log Analysis\Log Analysis.csproj", "{C5AA8422-2FE0-4284-8030-06298A92C4C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Log Analysis", "Log Analysis\Log Analysis.csproj", "{C5AA8422-2FE0-4284-8030-06298A92C4C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "Leap\Leap.csproj", "{A110A9B3-5B50-457E-A86B-542D62771E20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C5AA8422-2FE0-4284-8030-06298A92C4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5AA8422-2FE0-4284-8030-06298A92C4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5AA8422-2FE0-4284-8030-06298A92C4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A110A9B3-5B50-457E-A86B-542D62771E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A110A9B3-5B50-457E-A86B-542D62771E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A110A9B3-5B50-457E-A86B-542D62771E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A110A9B3-5B50-457E-A86B-542D62771E20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
