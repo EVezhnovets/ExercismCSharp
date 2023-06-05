@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bob", "Bob\Bob.csproj", "{5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Log Analysis", "Log Analysis\Log Analysis.csproj", "{C5AA8422-2FE0-4284-8030-06298A92C4C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "Leap\Leap.csproj", "{A110A9B3-5B50-457E-A86B-542D62771E20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leap", "Leap\Leap.csproj", "{A110A9B3-5B50-457E-A86B-542D62771E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumerals\RomanNumerals.csproj", "{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A110A9B3-5B50-457E-A86B-542D62771E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A110A9B3-5B50-457E-A86B-542D62771E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A110A9B3-5B50-457E-A86B-542D62771E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
