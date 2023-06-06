@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Log Analysis", "Log Analysi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leap", "Leap\Leap.csproj", "{A110A9B3-5B50-457E-A86B-542D62771E20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumerals\RomanNumerals.csproj", "{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanNumerals", "RomanNumerals\RomanNumerals.csproj", "{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberAnalysis", "PhoneNumberAnalysis\PhoneNumberAnalysis.csproj", "{8E809F7D-B69A-4620-AA20-2C4D1465E077}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB7AE5D7-13AA-439B-B42E-C241CA79AD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E809F7D-B69A-4620-AA20-2C4D1465E077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E809F7D-B69A-4620-AA20-2C4D1465E077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E809F7D-B69A-4620-AA20-2C4D1465E077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E809F7D-B69A-4620-AA20-2C4D1465E077}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
