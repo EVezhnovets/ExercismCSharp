@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneNumberAnalysis", "Phon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Darts", "Darts\Darts.csproj", "{44886E48-5622-4D31-93DD-E0D870CE7826}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagoreanTriplet", "PythagoreanTriplet\PythagoreanTriplet.csproj", "{1C0F7805-1F42-4C5C-9C3C-C7F9BE227099}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PythagoreanTriplet", "PythagoreanTriplet\PythagoreanTriplet.csproj", "{1C0F7805-1F42-4C5C-9C3C-C7F9BE227099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{B116BDDA-A6E8-4697-A61E-A77BB366FFCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{1C0F7805-1F42-4C5C-9C3C-C7F9BE227099}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C0F7805-1F42-4C5C-9C3C-C7F9BE227099}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C0F7805-1F42-4C5C-9C3C-C7F9BE227099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B116BDDA-A6E8-4697-A61E-A77BB366FFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B116BDDA-A6E8-4697-A61E-A77BB366FFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B116BDDA-A6E8-4697-A61E-A77BB366FFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B116BDDA-A6E8-4697-A61E-A77BB366FFCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
