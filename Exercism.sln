@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeedForSpeed", "NeedForSpee
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RailFenceCipher", "RailFenceCipher\RailFenceCipher.csproj", "{BE3322D3-3C51-4079-B996-FC2B3FDC347A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceOfSquares", "DifferenceOfSquares\DifferenceOfSquares.csproj", "{7173486D-652D-421E-84DE-ED0BB114040A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DifferenceOfSquares", "DifferenceOfSquares\DifferenceOfSquares.csproj", "{7173486D-652D-421E-84DE-ED0BB114040A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceAge", "SpaceAge\SpaceAge.csproj", "{9A1D8175-D538-4768-8542-D675DECD603A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{7173486D-652D-421E-84DE-ED0BB114040A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7173486D-652D-421E-84DE-ED0BB114040A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7173486D-652D-421E-84DE-ED0BB114040A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A1D8175-D538-4768-8542-D675DECD603A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1D8175-D538-4768-8542-D675DECD603A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1D8175-D538-4768-8542-D675DECD603A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1D8175-D538-4768-8542-D675DECD603A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
